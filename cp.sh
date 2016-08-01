@@ -1,0 +1,1 @@
+cp runfile $1
